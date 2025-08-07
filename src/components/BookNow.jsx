@@ -30,10 +30,12 @@ const BookNow = () => {
           />
           <input
             type="date"
+            placeholder="mm/dd/yyyy"
             className="px-4 py-3 rounded w-full"
           />
           <button
             type="button"
+            placeholder="mm/dd/yyyy"
             className="px-6 py-3 border border-white text-white font-bold rounded hover:bg-white hover:text-[#ff6b00] transition w-full"
           >
             Submit
