@@ -1,24 +1,22 @@
-# ðŸš´â€â™‚ï¸ PedalUp â€“ Bike Rental Web App
+# 🚲 PedalUp â€“ Bike Rental Web App
 
 **PedalUp** is a sleek, modern bike rental landing page built to offer an intuitive and responsive experience for users who want to rent bikes on the go. This project highlights my front-end development skills and user-centric design using modern technologies.
-
-## ðŸŒ Live Site
 
 [View PedalUp Live](https://your-username.github.io/pedalup)  
 > Replace the link above after deployment on GitHub Pages or Netlify.
 
-## ðŸ“Œ About the Project
+## 🌟 About the Project
 
 PedalUp was built with:
 
-- âš›ï¸ **React.js** â€“ Component-based architecture for reusable UI
-- ðŸŽ¨ **Tailwind CSS** â€“ Utility-first CSS framework for fast styling
-- ðŸŽžï¸ **Framer Motion** â€“ Smooth and expressive animations
-- âš¡ **Vite** â€“ Fast build tool and dev server
+- **React.js** Component-based architecture for reusable UI
+- **Tailwind CSS** Utility-first CSS framework for fast styling
+- **Framer Motion** Smooth and expressive animations
+- **Vite** Fast build tool and dev server
 
 The landing page is designed with a clean UI and subtle animations, promoting an active lifestyle through quick and accessible bike rentals.
 
-## âœ¨ Features
+## 🌟 Features
 
 - Responsive layout for desktop and mobile
 - Smooth scrolling navigation
@@ -27,7 +25,7 @@ The landing page is designed with a clean UI and subtle animations, promoting an
 - Animated transitions and hover effects
 - Dark mode toggle (optional)
 
-## ðŸ“· Screenshots
+## 🌟 Screenshots
 
 > Add screenshots like these after deployment:
 ```
@@ -35,9 +33,9 @@ The landing page is designed with a clean UI and subtle animations, promoting an
 ![Services Section](https://your-screenshot-link.com/services)
 ```
 
-## ðŸ› ï¸ Getting Started (For Developers)
+## 📂 Getting Started (For Developers)
 
-### ðŸ”§ Installation
+### 📂 Installation
 
 ```bash
 # Clone the repository
@@ -53,13 +51,13 @@ npm install
 npm run dev
 ```
 
-### ðŸ“¦ Build for Production
+### 📂 Build for Production
 
 ```bash
 npm run build
 ```
 
-## ðŸ§  Learnings
+## 📅  Learnings
 
 While building PedalUp, I improved my understanding of:
 - React component composition
@@ -67,12 +65,12 @@ While building PedalUp, I improved my understanding of:
 - Creating interactive UIs using Framer Motion
 - Structuring a responsive and accessible layout
 
-## ðŸ™‹â€â™‚ï¸ Author
+## 👨‍💻 Author
 
 **John Alexis Manansala**  
 Front-End Developer & UX Designer  
 [Portfolio Website](https://your-portfolio-link.com)
 
-## ðŸ“ƒ License
+## 📃 License
 
 This project is open source and available under the [MIT License](LICENSE).
