@@ -1,48 +1,68 @@
-# 🌐 John Alexis Manansala – Portfolio
+# 🚲 PedalUp - Bike Rental Web App
 
-Welcome to my personal web portfolio, built to showcase my skills, projects, and passion for web development and UI/UX design.
+**PedalUp** is a sleek, modern bike rental landing page built to offer an intuitive and responsive experience for users who want to rent bikes on the go. This project highlights my front-end development skills and user-centric design using modern technologies.
 
-## 🚀 Live Site
+[View PedalUp Live](https://pedalup.netlify.app/)  
+> Replace the link above after deployment on GitHub Pages or Netlify.
 
-[Click here to view the live portfolio](https://your-username.github.io/johnalexismanansala-portfolio)
+## 🌟 About the Project
 
-> Replace the URL above once deployed on GitHub Pages or Netlify.
+PedalUp was built with:
 
----
+- **React.js** Component-based architecture for reusable UI
+- **Tailwind CSS** Utility-first CSS framework for fast styling
+- **Framer Motion** Smooth and expressive animations
+- **Vite** Fast build tool and dev server
 
-## 📌 About
+The landing page is designed with a clean UI and subtle animations, promoting an active lifestyle through quick and accessible bike rentals.
 
-This portfolio was built using:
-- **React.js**
-- **Tailwind CSS**
-- **Framer Motion**
-- **Vite**
+## 🌟 Features
 
-It highlights my design taste, front-end development abilities, and interactive projects like [ClickMorale](https://github.com/3ppyyy/clickmorale) – a fun quiz that reveals your social personality.
+- Responsive layout for desktop and mobile
+- Smooth scrolling navigation
+- Eye-catching hero section with call-to-action
+- Sectioned content for services, pricing, and contact
+- Animated transitions and hover effects
+- Dark mode toggle (optional)
 
----
+## 📂 Getting Started (For Developers)
 
-## ✨ Features
-
-- Smooth scroll and responsive layout  
-- Dark mode toggle with memory  
-- Animated transitions using Framer Motion  
-- Project cards with hover effects  
-- Contact form integration
-
----
-
-## 🛠️ Installation (For Developers)
+### 📂 Installation
 
 ```bash
-# Clone the repo
-git clone https://github.com/3ppyyy/johnalexismanansala-portfolio.git
+# Clone the repository
+git clone https://github.com/your-username/pedalup.git
 
-# Go into the folder
-cd johnalexismanansala-portfolio
+# Navigate into the project directory
+cd pedalup
 
 # Install dependencies
 npm install
 
-# Start the development server
+# Run the development server
 npm run dev
+```
+
+### 📂 Build for Production
+
+```bash
+npm run build
+```
+
+## 📅  Learnings
+
+While building PedalUp, I improved my understanding of:
+- React component composition
+- Tailwind CSS best practices
+- Creating interactive UIs using Framer Motion
+- Structuring a responsive and accessible layout
+
+## 👨‍💻 Author
+
+**John Alexis Manansala**  
+Front-End Developer & UX Designer  
+[Portfolio Website](https://your-portfolio-link.com)
+
+## 📃 License
+
+This project is open source and available under the [MIT License](LICENSE).
