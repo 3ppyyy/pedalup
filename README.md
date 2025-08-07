@@ -1,4 +1,4 @@
-# 🚲 PedalUp â€“ Bike Rental Web App
+# 🚲 PedalUp - Bike Rental Web App
 
 **PedalUp** is a sleek, modern bike rental landing page built to offer an intuitive and responsive experience for users who want to rent bikes on the go. This project highlights my front-end development skills and user-centric design using modern technologies.
 
