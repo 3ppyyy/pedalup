@@ -25,14 +25,6 @@ The landing page is designed with a clean UI and subtle animations, promoting an
 - Animated transitions and hover effects
 - Dark mode toggle (optional)
 
-## 🌟 Screenshots
-
-> Add screenshots like these after deployment:
-```
-![Homepage](https://your-screenshot-link.com/homepage)
-![Services Section](https://your-screenshot-link.com/services)
-```
-
 ## 📂 Getting Started (For Developers)
 
 ### 📂 Installation
