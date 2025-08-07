@@ -19,7 +19,7 @@ const Hero = () => {
 
   return (
     <section
-      className="relative bg-cover bg-center bg-no-repeat min-h-screen px-6 md:px-16 flex items-center"
+      id ="home" className="relative bg-cover bg-center bg-no-repeat min-h-screen px-6 md:px-16 flex items-center"
       style={{ backgroundImage: `url(${bikeHero})` }}
     >
       {/* Dark overlay */}
