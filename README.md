@@ -2,7 +2,7 @@
 
 **PedalUp** is a sleek, modern bike rental landing page built to offer an intuitive and responsive experience for users who want to rent bikes on the go. This project highlights my front-end development skills and user-centric design using modern technologies.
 
-[View PedalUp Live](https://your-username.github.io/pedalup)  
+[View PedalUp Live](https://pedalup.netlify.app/)  
 > Replace the link above after deployment on GitHub Pages or Netlify.
 
 ## 🌟 About the Project
